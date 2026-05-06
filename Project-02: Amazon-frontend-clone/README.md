@@ -33,12 +33,6 @@ This project focuses on replicating UI/UX design and layout structure.
 
 ---
 
-## 🌐 Live Demo
-
-(Add deployed link here using GitHub Pages)
-
----
-
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only. It is not affiliated with Amazon.
